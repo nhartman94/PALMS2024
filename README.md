@@ -6,4 +6,4 @@ We'll be swiching between hands-on and lecture in the class, and lecture noteboo
 
 To run in collab, click on the link below:
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhartman94/PALMS2024/blob/main/)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhartman94/PALMS2024/blob/solutions/)
